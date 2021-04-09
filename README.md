@@ -1,3 +1,14 @@
-<a href="https://chatness.app">
-<img src="chatness.jpg" alt="angular chat, firebase chat app, capacitor chat, ionic chat app, react chat, stencil chat, svelte chat, vanilla chat, vue chat, alpine chat, ember chat, mithril chat, preact chat, firebase chat app, ionic angular chat app template" />
-</a>
+Hey, I'm Stew! 👋
+
+🤓  App Developer at [INFLCR](https://inflcr.com)
+🇧🇷  Living in Vila Velha, Brazil
+
+What I'm working on 👨‍💻
+
+💬 Bootstrapping a [Chat solution](https://chatness.app)
+📱 Maintaining plugins at [Capacitor](https://github.com/capacitor-community)
+
+Find me elsewhere 🌎
+
+🚀 [Site](https://stewan.io)
+🐦 [Twitter](https://twitter.com/stewones)
