@@ -6,10 +6,10 @@ Hey, I'm Stew! 👋
 What I'm working on 👨‍💻
 
 
-💬&nbsp;Bootstrapping a [Chat solution](https://chatness.app)<br />
-📱&nbsp;Maintaining plugins at [Capacitor](https://github.com/capacitor-community)
+💬 &nbsp;Bootstrapping a [Chat solution](https://chatness.app)<br />
+📱 &nbsp;Maintaining plugins at [Capacitor](https://github.com/capacitor-community)
 
 Find me elsewhere 🌎
 
-🚀&nbsp;[Site](https://stewan.io)<br />
-🐦&nbsp;[Twitter](https://twitter.com/stewones)
+🚀 &nbsp;[Site](https://stewan.io)<br />
+🐦 &nbsp;[Twitter](https://twitter.com/stewones)
