@@ -1,6 +1,6 @@
 ### Hey, I'm Stew! 👋
 
-🤓 &nbsp;App Developer at [INFLCR](https://inflcr.com)<br />
+🤓 &nbsp;Engineering at [INFLCR](https://inflcr.com)<br />
 🇧🇷 &nbsp;Living in Vila Velha, Brazil
 
 What I'm working on 👨‍💻
