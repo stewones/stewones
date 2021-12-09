@@ -19,4 +19,5 @@ What I'm working on 👨‍💻
 Find me elsewhere 🌎
 
 🚀 &nbsp;[Site](https://stewan.io)<br />
-🐦 &nbsp;[Twitter](https://twitter.com/stewones)
+🐦 &nbsp;[Twitter](https://twitter.com/stewones)<br />
+📸 &nbsp;[Instagram](https://www.instagram.com/stewansilva)
