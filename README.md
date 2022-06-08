@@ -1,7 +1,7 @@
 ### Howdy, I'm Stewan! 👋
 
 But you can call me Stew 😛 <br />
-I live in Vila Velha, ES. Brazil 🇧🇷🇷🇷
+I live in Vila Velha, Brazil 🇧🇷🇷🇷
 
 &nbsp;
 
