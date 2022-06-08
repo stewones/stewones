@@ -13,7 +13,7 @@ What I'm working on 👨‍💻
 📱 &nbsp;Maintaining open plugins at [Capacitor Community](https://github.com/capacitor-community) <br />
 🛰️ &nbsp;Framework-agnostic tiny lib for [network, cache and state management](https://flew.dev) <br />
 💬 &nbsp;Multifaceted [chat app template](https://chatness.app) for angular developers <br />
-💬 &nbsp;[Task management app template](https://firetask.io) with tons of native features <br />
+🔥 &nbsp;[Task management app template](https://firetask.io) with tons of native features <br />
 
 &nbsp;
 
