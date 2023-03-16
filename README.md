@@ -7,7 +7,7 @@ I live in [Vila Velha](https://www.google.com/search?q=vila+velha+brazil&source=
 
 Some stuff I work on 👨‍💻
 
-🤓 &nbsp;[INFLCR app](https://inflcr.com) <br />
+🤓 &nbsp;[INFLCR](https://inflcr.com) <br />
 💬 &nbsp;[Chatness](https://chatness.app) <br />
 🚀 &nbsp;[Intenseloop](https://intenseloop.com) <br />
 📱 &nbsp;[Capacitor Community](https://github.com/capacitor-community) <br />
