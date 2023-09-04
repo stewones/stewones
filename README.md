@@ -14,7 +14,6 @@ Some stuff I work on 👨‍💻
 
 Find me elsewhere 🌎
 
-🚀 &nbsp;[Site](https://stewan.io)<br />
 🐦 &nbsp;[Twitter](https://twitter.com/stewones)<br />
 📸 &nbsp;[Instagram](https://www.instagram.com/stewones)<br />
 👔 &nbsp;[LinkedIn](https://www.linkedin.com/in/stewones)
