@@ -6,7 +6,7 @@ A 🇧🇷 software engineer living in [paradise](https://www.google.com/search?
 
 Some stuff I cook 👨‍💻
 
-🤓 &nbsp;[INFLCR](https://inflcr.com) <br />
+🤓 &nbsp;[INFLCR Mobile App](https://inflcr.com) <br />
 💬 &nbsp;[Chatness AI](https://chatness.ai) <br />
 📱 &nbsp;[Capacitor Community](https://github.com/capacitor-community) <br />
 
